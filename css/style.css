@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+#mainContainer{
+width:1024;
+height:768;  	
+	
+}
+
+#logoContainer{
+ text-align:left;
+ 	
+}
+
+#clientIntroContainer{
+text-align:right;
+	
+}
+#clientIntroContainer .div{
+
+  float:left;
+
+
+}
+
+
+
